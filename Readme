@@ -1,0 +1,1 @@
+This is a To-Do list web application made using django. It allows a user to write their daily goals for the day and also has a database attached to it for user authentication and storage of specific data
